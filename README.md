@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A5F7AF&center=true&width=435&lines=Wellcome+to+my+page." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A5F7AF&center=true&width=435&lines=Welcome+to+my+page." alt="Typing SVG" /></a>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:dfff5e,100:73c8a9&height=300&section=header&text=mina's%20code&fontSize=90&stroke=ffffff&strokeWidth=1.5" />
 </div>
